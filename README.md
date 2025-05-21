@@ -3,7 +3,7 @@ This AutoHotkey script is a neat little tool that makes all new windows on your 
 
 ## Cool Features
 - Auto Transparency: Slaps a nice 220/255 transparency on new windows that qualify.
-- Skips the Boring Stuff: Ignores minimized windows, system windows (like "Program Manager"), or windows with no title.
+- Skips the Boring Stuff: Ignores minimized windows, system windows (like `Program Manager`), or windows with no title.
 - Always On: Runs in the background until you tell it to stop.
 
 ## Previews
